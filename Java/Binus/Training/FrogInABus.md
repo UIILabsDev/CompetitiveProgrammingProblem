@@ -6,7 +6,7 @@ Time Limit: 2 seconds
 </center>
 <br/>
 
-<img src="pa.gif" width="400" height="259" align="right">
+<img src="https://raw.githubusercontent.com/UiiLabsDev/CompetitiveProgrammingProblem/master/Java/Binus/Training/friabus.gif" width="400" height="259" align="right">
 
 <p>In the Kingdom of Frog, a far far away country, the citizens use busses to travel between places. Unlike any city in Indonesia, busses in Kingdom of Frog are well organized, they only stop at shelters specified on their routes. There are several bus routes and each bus has a number (let's call it "bus-number") which can be seen from outside the bus. In each shelter, there is an information plate which contains a list of bus number, i.e. a list of busses which will stop at that particular shelter.</p>
 
